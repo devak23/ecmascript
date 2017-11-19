@@ -1,0 +1,14 @@
+{
+  "name": "y",
+  "version": "y",
+  "main": "index.js",
+  "repository": "https://devak23:developer123@github.com/devak23/ecmascript.git",
+  "author": "devak23 <developer.ak23@gmail.com>",
+  "license": "MIT",
+  "quokka": {
+    "babel": true
+  },
+  "dependencies": {
+    "babel-cli": "^6.26.0"
+  }
+}
